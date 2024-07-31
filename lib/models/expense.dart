@@ -4,6 +4,10 @@ const uuid = Uuid();
 
 enum Category { food, travel, leisure, work }
 
+const categoryIcons = {
+  
+};
+
 class Expense {
   Expense({
     required this.title,
