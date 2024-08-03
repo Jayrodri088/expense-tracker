@@ -54,9 +54,9 @@ void main() {
           ),
         ),
         textTheme: ThemeData().textTheme.copyWith(
-              titleLarge: TextStyle(
+              titleLarge: const TextStyle(
                 fontWeight: FontWeight.normal,
-                color: kColorScheme.onSecondaryContainer,
+                color: Colors.white,
                 fontSize: 17,
               ),
             ),
