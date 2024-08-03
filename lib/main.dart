@@ -56,7 +56,7 @@ void main() {
         textTheme: ThemeData().textTheme.copyWith(
               titleLarge: const TextStyle(
                 fontWeight: FontWeight.normal,
-                color: Colors.white,
+                color: Colors.black,
                 fontSize: 17,
               ),
             ),
